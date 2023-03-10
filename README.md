@@ -1,6 +1,10 @@
 # my neovim config
 
-OS: Fedora (Linux) // Inspired by ThePrimagen ([repo](https://github.com/ThePrimeagen/init.lua/tree/master))
+OS: Fedora (Linux)
+
+Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
+
+Inspired by ThePrimagen ([repo](https://github.com/ThePrimeagen/init.lua/tree/master)).
 
 ## getting started
 
