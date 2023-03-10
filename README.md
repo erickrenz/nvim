@@ -27,13 +27,9 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
-4. enter `nvim` and source (`:so`) the following files if necessary:
-	- `init.lua`
+4. enter `nvim` and run `:PackerSync` and let all packages install/update.
 
-5. run `:PackerSync` and let all packages install/update
-	- note: if error messages occur, simply quit and rerun sync command.
-
-6. quit (`:q`) and restart (`nvim`) to source all file changes within the directory. This also installs all dependencies.
+5. quit (`:q`) and restart (`nvim .`) to start using neovim.
 
 ## optional config
 
